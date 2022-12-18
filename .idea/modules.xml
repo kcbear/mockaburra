@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mockkaburra.iml" filepath="$PROJECT_DIR$/.idea/mockkaburra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mockaburra.iml" filepath="$PROJECT_DIR$/.idea/modules/mockaburra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mockaburra.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mockaburra.app.iml" />
     </modules>
   </component>
 </project>
